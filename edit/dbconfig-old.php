@@ -1,7 +1,7 @@
 <?php
 define('DBHost2','travello.mysql.tools');
 define('DBUser2','travello_db');
-define('DBPassword2','7YsRuPLb');
+define('DBPassword2','7UsRvPLd');
 define('DBName2','travello_db');
 define('DBPort2',3306);
 define('DBCharSet2', 'utf8');

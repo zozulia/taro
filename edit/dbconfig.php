@@ -1,6 +1,6 @@
 <?php define('DBUser2','tarolog');
 define('DBHost2','localhost');
-define('DBPassword2','wXRarVZE');
+define('DBPassword2','wXVaTwZE');
 define('DBName2','tarolog');
 define('DBPort2',3306);
 define('DBCharSet2', 'utf8');
