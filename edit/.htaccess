@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "/www/tarolog.biz.ua/edit"
+AuthUserFile /var/www/aurita/data/etc/22555392.passwd
+<Limit GET POST>
+	require valid-user
+</Limit>

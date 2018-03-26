@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.tarolog.biz.ua/index.html</loc>
+    <lastmod>2017-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.tarolog.biz.ua/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.tarolog.biz.ua/phone/thankyou-m.html</loc>
+    <lastmod>2017-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.tarolog.biz.ua/phone/%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C.html</loc>
+    <lastmod>2017-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.tarolog.biz.ua/thankyou.html</loc>
+    <lastmod>2017-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

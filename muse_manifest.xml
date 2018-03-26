@@ -1,0 +1,143 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://s24.thehost.com.ua" ftp_rootfolder="//www/tarolog.biz.ua" exportTarget="FTP" domain="www.tarolog.biz.ua" resolutions="1x" timestamp="1492334293230">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3981349136" ref="index"/>
+    <file name="thankyou.css" crc="153991776" ref="thankyou"/>
+  </folder>
+  <folder name="fonts">
+    <file name="raphaelicons-webfont1.woff" crc="492666582"/>
+    <file name="raphaelicons-webfont1.eot" crc="218929518"/>
+    <file name="raphaelicons-webfont1.svg" crc="3993346579"/>
+    <file name="themify.woff" crc="3800545150"/>
+    <file name="themify.eot" crc="259172999"/>
+    <file name="themify.svg" crc="3998433262"/>
+    <file name="icon-works-webfont.woff" crc="474933530"/>
+    <file name="icon-works-webfont.eot" crc="4190919919"/>
+    <file name="icon-works-webfont.svg" crc="4058333494"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>мебель:index:phone>thankyou-m:thankyou"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>мебель:index:phone>thankyou-m:thankyou"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>мебель:index:phone>thankyou-m:thankyou"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>мебель:index:phone>thankyou-m:thankyou"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>мебель:index:phone>thankyou-m:thankyou"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:index"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>index:index"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>index:index"/>
+    <file name="form-u4606.php" crc="217107757" ref="phone>index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>мебель:index:phone>thankyou-m:thankyou"/>
+    <file name="form-u3120.php" crc="3904484447" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="женщины темные-u4570-fr.jpg" crc="4115445502" ref="phone>index"/>
+    <file name="img_2094.jpg" crc="3916332521" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="46eb9be8-0b2a-4649-b1c7-6f031ac5fd3e-u4587-fr.png" crc="4166269211" ref="phone>index"/>
+    <file name="taro темный.jpg" crc="348454923" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodafone-logo-icon-png-transparent.png" crc="4187212616" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image (1).jpg" crc="176582780" ref="phone>index:index"/>
+    <file name="email-icon-23.png" crc="3999036314" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-icon-full_color.png" crc="264501983" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk_com-logo_svg.png" crc="3951895902" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b68ba2ac07e002167057770f502dca3b_facebook-icon-vector-facebook-logo_512-512.png" crc="4025440573" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="женщины темные.jpg" crc="528785215" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_emizbgg.png" crc="3944731582" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tarot (1)-u1789-fr.png" crc="306071941" ref="index"/>
+    <file name="46eb9be8-0b2a-4649-b1c7-6f031ac5fd3e-u1649-fr.png" crc="4166269211" ref="index"/>
+    <file name="0_74201_3060809c_l.jpg" crc="480501214" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1ваям.jpg" crc="294785970" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени.jpg" crc="419078546" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x3fyyocrl2o234.jpg" crc="4252937838" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodafone-logo-icon-png-transparent-u3239-fr.png" crc="327610940" ref="index"/>
+    <file name="tarot4.png" crc="4132263291" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b68ba2ac07e002167057770f502dca3b_facebook-icon-vector-facebook-logo_512-512-u3281.png" crc="4014323099" ref="index"/>
+    <file name="b68ba2ac07e002167057770f502dca3b_facebook-icon-vector-facebook-logo_512-512-u3281-r.png" crc="3790871723" ref="index"/>
+    <file name="vk_com-logo_svg-u3284.png" crc="4187247776" ref="index"/>
+    <file name="vk_com-logo_svg-u3284-r.png" crc="4205642435" ref="index"/>
+    <file name="youtube-icon-full_color-u3287.png" crc="149155043" ref="index"/>
+    <file name="youtube-icon-full_color-u3287-r.png" crc="4252746227" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="______.css" crc="62426684" ref="phone>мебель"/>
+      <file name="index.css" crc="241163471" ref="phone>index"/>
+      <file name="thankyou-m.css" crc="380258217" ref="phone>thankyou-m"/>
+    </folder>
+    <file name="index.html" crc="456505979" seo="true" mt="1492057283456" redirect="true"/>
+    <file name="мебель.html" crc="62817590" seo="true" mt="1491757953455" redirect="false"/>
+    <file name="thankyou-m.html" crc="3963880986" seo="true" mt="1492058703670" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="356422817" seo="true" mt="1492334278688" redirect="true"/>
+  <file name="thankyou.html" crc="401395260" seo="true" mt="1492057303017" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Главная" filename="index.html" muse_href="page:U1515" master="U72">
+        <breakpoint uid="U1505" maxwidth="1160" minwidth="0" squishy="false"/>
+        <anchor name="lidform" html_id="lidform" muse_href="anchor:U1504:U3227" includeInBPs="U1505"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1180" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1180" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Спасибо За Регистрацию" filename="thankyou.html" muse_href="page:U4878" master="U72">
+        <breakpoint uid="U4868" maxwidth="1180" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Версия М" filename="index.html" muse_href="page:U3386" master="U3365">
+        <breakpoint uid="U3376" maxwidth="480" minwidth="0" squishy="true"/>
+        <anchor name="lidform" html_id="lidform" muse_href="anchor:U3375:U4626" includeInBPs="U3376"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U3355" uid="U3365">
+        <breakpoint uid="U3366" maxwidth="380" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U3355">
+        <breakpoint uid="U3356" maxwidth="380" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="мебель" filename="мебель.html" muse_href="page:U3398" master="U3365">
+        <breakpoint uid="U3388" maxwidth="380" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Спасибо Моб" filename="thankyou-m.html" muse_href="page:U5733" master="U3365">
+        <breakpoint uid="U5723" maxwidth="380" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
